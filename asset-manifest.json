@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.0e5def55.css",
+    "main.js": "/repository-name/static/js/main.34d27937.js",
+    "static/media/space.png": "/repository-name/static/media/space.1b56297f0e411fbe8268.png",
+    "static/media/recipe warriors.jpg": "/repository-name/static/media/recipe warriors.0453e8a08371d21a6ef0.jpg",
+    "static/media/run buddy.jpg": "/repository-name/static/media/run buddy.10b91b5a3ba99812f872.jpg",
+    "static/media/jest-another-rpg.jpg": "/repository-name/static/media/jest-another-rpg.7e051f30c2dec8e9c6b1.jpg",
+    "index.html": "/repository-name/index.html",
+    "main.0e5def55.css.map": "/repository-name/static/css/main.0e5def55.css.map",
+    "main.34d27937.js.map": "/repository-name/static/js/main.34d27937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5def55.css",
+    "static/js/main.34d27937.js"
+  ]
+}
